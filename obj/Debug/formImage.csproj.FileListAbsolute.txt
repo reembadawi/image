@@ -1,0 +1,11 @@
+D:\ooop\formImage\bin\Debug\formImage.exe.config
+D:\ooop\formImage\bin\Debug\formImage.exe
+D:\ooop\formImage\bin\Debug\formImage.pdb
+D:\ooop\formImage\obj\Debug\formImage.csproj.AssemblyReference.cache
+D:\ooop\formImage\obj\Debug\formImage.csproj.SuggestedBindingRedirects.cache
+D:\ooop\formImage\obj\Debug\formImage.Form1.resources
+D:\ooop\formImage\obj\Debug\formImage.Properties.Resources.resources
+D:\ooop\formImage\obj\Debug\formImage.csproj.GenerateResource.cache
+D:\ooop\formImage\obj\Debug\formImage.csproj.CoreCompileInputs.cache
+D:\ooop\formImage\obj\Debug\formImage.exe
+D:\ooop\formImage\obj\Debug\formImage.pdb
